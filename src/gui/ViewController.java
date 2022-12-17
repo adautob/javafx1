@@ -10,6 +10,6 @@ public class ViewController {
 	
 	@FXML
 	public void onMyButtonClick() {
-		System.out.println("Hello!");
+		System.out.println("Hello!!");
 	}
 }
