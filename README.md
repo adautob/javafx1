@@ -1,1 +1,1 @@
-# javafx1
+# javafx1 - Aplicação desktop com JavaFx
